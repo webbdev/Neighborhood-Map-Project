@@ -13,9 +13,9 @@ Download the repo and launch/open index.html.
 
 **dev-version** contains compressed js, html and css files.
 
-1.  git clone;
-2.  npm i;
-3.  bower i;
+1.  git clone
+2.  npm i
+3.  bower i
 4. gulp
 
 ### Resources used
