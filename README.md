@@ -6,14 +6,16 @@ This neighborhood map application displays 20 the best museums in the San Franci
 The museum can be searched/filtered by museum name.
 To get the information about a museum can click on a marker or on one of the title of museums displayed on the list (on upper left side of the screen).
 
-#### How Install
 The result of this project, you can find at: [Neighborhood Map Project](http://webbdev.github.io/Neighborhood-Map-Project/)
-or Download the repo, and just launch/open index.html.
 
-**dev-version** contains compressed js, html and css files, using Gulp and Bower.
-1. git clone;
-2. npm i;
-3. bower i;
+#### How Install
+Download the repo and launch/open index.html.
+
+**dev-version** contains compressed js, html and css files.
+
+1.  git clone;
+2.  npm i;
+3.  bower i;
 4. gulp
 
 ### Resources used
