@@ -11,8 +11,7 @@ The result of this project, you can find at: [Neighborhood Map Project](http://w
 #### How Install
 * Download the repo and launch/open index.html.
 
-* **dev-version** contains compressed js, html and css files.
-
+* **dev-version** contains compressed js, html and css files:
 1.  git clone
 2.  npm i
 3.  bower i
