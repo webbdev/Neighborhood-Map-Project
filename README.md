@@ -10,8 +10,11 @@ To get the information about a museum can click on a marker or on one of the tit
 The result of this project, you can find at: [Neighborhood Map Project](http://webbdev.github.io/Neighborhood-Map-Project/)
 or Download the repo, and just launch/open index.html.
 
-* This project has two version. 
-For **dev-version** were used Gulp and Bower. "Dev-version" contains compressed js, html and css files.
+**dev-version** contains compressed js, html and css files, using Gulp and Bower.
+1. git clone;
+2. npm i;
+3. bower i;
+4. gulp
 
 ### Resources used
 * [Google Maps](https://developers.google.com/maps/)
